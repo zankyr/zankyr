@@ -37,11 +37,14 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 ![](https://img.shields.io/badge/DB-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
 
 
+<a href="https://github.com/zankyr/zankyr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zankyr&show_icons=true&hide=issues,contribs&theme=synthwave" />
+</a>
 
-[![zankyr's github stats](https://github-readme-stats.vercel.app/api?username=zankyr&show_icons=true&hide=issues,contribs&theme=synthwave)](https://github.com/zankyr/github-readme-stats)
+<a href="https://github.com/zankyr/zankyr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zankyr&hide=html,css&layout=compact&theme=synthwave" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zankyr&hide=html,css&layout=compact&theme=synthwave)](https://github.com/zankyr/github-readme-stats)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
