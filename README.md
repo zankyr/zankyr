@@ -24,11 +24,6 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 ![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
 
-
-![](https://img.shields.io/badge/OS-Win10-blueviolet?style=plastic&logo=microsoft)
-![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-brightgreen?style=plastic&logo=Apple)
-![](https://img.shields.io/badge/OS-Debian-green?style=plastic&logo=Debian)
-
 <!-- Editors -->
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blueviolet?style=plastic&logo=IntelliJ%20IDEA)
 ![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
@@ -43,7 +38,7 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 
 <!-- Databases -->
 ![](https://img.shields.io/badge/DB-Oracle-important?style=plastic&logo=oracle)
-![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql)
+![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/DB-PostgreSQL-important?style=plastic&logo=PostgreSQL)
 ![](https://img.shields.io/badge/DB-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
 
