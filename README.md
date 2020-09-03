@@ -36,6 +36,12 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 <!-- Shells -->
 ![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=plastic&logo=gnu%20bash)
 
+<!-- Databases -->
+![](https://img.shields.io/badge/DB-Oracle-success?style=plastic&logo=oracle)
+![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql)
+![](https://img.shields.io/badge/DB-PostgreSQL-success?style=plastic&logo=PostgreSQL)
+![](https://img.shields.io/badge/DB-MSSQL-success?style=plastic&logo=microsoft%20sql%20server)
+
 
 
 <!--
