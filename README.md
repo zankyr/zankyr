@@ -11,9 +11,9 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 [![LinkedIn][3.2]][3]
 
 
-[3.2]:  https://imgur.com/gallery/JSibq6F
+[3.2]: https://imgur.com/gallery/JSibq6F
 
-[3]:  https://linkeding.com
+[3]: https://linkeding.com
 
 ## Techs&Tools
 
