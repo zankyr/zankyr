@@ -20,7 +20,7 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 
 ## Techs&Tools
 <!-- Operating Systems -->
-![](https://img.shields.io/badge/OS-Win10-blueviolet?style=plastic&logo=Windows)
+![](https://img.shields.io/badge/OS-Win10-blueviolet?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-brightgreen?style=plastic&logo=Apple)
 ![](https://img.shields.io/badge/OS-Debian-green?style=plastic&logo=Debian)
 
@@ -39,8 +39,8 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 <!-- Databases -->
 ![](https://img.shields.io/badge/DB-Oracle-success?style=plastic&logo=oracle)
 ![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql)
-![](https://img.shields.io/badge/DB-PostgreSQL-success?style=plastic&logo=PostgreSQL)
-![](https://img.shields.io/badge/DB-MSSQL-success?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/DB-PostgreSQL-critical?style=plastic&logo=PostgreSQL)
+![](https://img.shields.io/badge/DB-MSSQL-informational?style=plastic&logo=microsoft%20sql%20server)
 
 
 
