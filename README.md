@@ -21,12 +21,12 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 ## Techs&Tools
 <|-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Win10-blueviolet?style=plastic&logo=Windows)
-![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-brightgreen?style=plastic&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Debian-green?style=plastic&logo=Debian&logoColor=white&color=2bbc8a)
 
 <!-- Editors -->
-![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=plastic&logo=IntelliJ%20IDEA&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-yellowgreen?style=plastic&logo=IntelliJ%20IDEA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-yellow?style=plastic&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
 
 <!-- Programming Languages -->
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=2bbc8a)
