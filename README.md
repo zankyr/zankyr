@@ -42,7 +42,7 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 </a>
 
 <a href="https://github.com/zankyr/zankyr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zankyr&hide=html,css&layout=compact&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zankyr&hide=html,css&theme=synthwave" />
 </a>
 
 
