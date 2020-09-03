@@ -20,6 +20,11 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 
 ## Techs&Tools
 <!-- Operating Systems -->
+![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
+![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple)
+![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
+
+
 ![](https://img.shields.io/badge/OS-Win10-blueviolet?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-brightgreen?style=plastic&logo=Apple)
 ![](https://img.shields.io/badge/OS-Debian-green?style=plastic&logo=Debian)
