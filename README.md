@@ -29,8 +29,12 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 ![](https://img.shields.io/badge/Editor-VSCode-yellow?style=plastic&logo=visual%20studio%20code)
 
 <!-- Programming Languages -->
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript)
+![](https://img.shields.io/badge/Code-Java-orange?style=plastic&logo=Java)
+![](https://img.shields.io/badge/Code-JavaScript-red?style=plastic&logo=JavaScript)
+![](https://img.shields.io/badge/Code-TypeScript-blue?style=plastic&logo=TypeScript)
+
+<!-- Shells -->
+![](https://img.shields.io/badge/Shell-Bash-lightgrey?style=plastic&logo=gnu%20bash)
 
 
 
