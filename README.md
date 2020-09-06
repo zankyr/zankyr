@@ -28,12 +28,12 @@ Backend world:
 
 
 Frontend world:
-![](https://img.shields.io/badge/-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-9cf?style=plastic&logo=TypeScript)
-![](https://img.shields.io/badge/-Angular-9cf?style=plastic&logo=angular)
-![](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-CSS3-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-Bootstrap-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=fecc53)
+![](https://img.shields.io/badge/-TypeScript-3178c6?style=plastic&logo=TypeScript)
+![](https://img.shields.io/badge/-Angular-185bb3?style=plastic&logo=angular&logoColor=dd0031)
+![](https://img.shields.io/badge/-HTML5-black?style=plastic&logo=html5)
+![](https://img.shields.io/badge/-CSS3-black?style=plastic&logo=css3)
+![](https://img.shields.io/badge/-Bootstrap-7952b3?style=plastic&logo=bootstrap)
 
 CVS & Co.
 ![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
