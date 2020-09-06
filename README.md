@@ -36,10 +36,10 @@ Frontend world:
 ![](https://img.shields.io/badge/-Bootstrap-7952b3?style=plastic&logo=bootstrap)
 
 CVS & Co.
-![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-GitLab-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-Jenkins-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-git-black?style=plastic&logo=git&logoColor=#f54d27)
+![](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
+![](https://img.shields.io/badge/-GitLab-382863?style=plastic&logo=gitlab)
+![](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=jenkins)
 
 Databases
 ![](https://img.shields.io/badge/-Oracle-important?style=plastic&logo=oracle)
