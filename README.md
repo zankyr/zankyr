@@ -17,6 +17,11 @@ From Milan
 <img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
 
 ## Techs&Tools
+
+What pays my bills: 
+![](https://img.shields.io/badge/Code-Java-9cf?style=plastic&logo=Java&logoColor=white)
+
+
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
@@ -27,7 +32,7 @@ From Milan
 ![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
 
 <!-- Programming Languages -->
-![](https://img.shields.io/badge/Code-Java-9cf?style=plastic&logo=Java&logoColor=white)
+
 ![](https://img.shields.io/badge/Code-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-9cf?style=plastic&logo=TypeScript)
 ![](https://img.shields.io/badge/Code-Angular-9cf?style=plastic&logo=angular)
