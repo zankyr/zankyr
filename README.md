@@ -45,7 +45,7 @@ Databases
 ![](https://img.shields.io/badge/-Oracle-3a3632?style=plastic&logo=oracle&logoColor=be4534)
 ![](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-important?style=plastic&logo=PostgreSQL&logoColor=346891)
-![](https://img.shields.io/badge/-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-MSSQL-?style=plastic&logo=microsoft%20sql%20server)
 
 
 Scripting
