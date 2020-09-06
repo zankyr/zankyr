@@ -16,7 +16,7 @@ From Milan
 <img src="https://img.shields.io/badge/-facebook-informational?style=for-thebadge&logo=facebook&logoColor=white&color=3b5998" />
 <img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
 
-## Techs&Tools
+## Techs&Tools | my work build
 
 Backend world:
 ![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=Java&logoColor=white)
@@ -30,20 +30,25 @@ Frontend world:
 ![](https://img.shields.io/badge/-TypeScript-9cf?style=plastic&logo=TypeScript)
 ![](https://img.shields.io/badge/-Angular-9cf?style=plastic&logo=angular)
 
-![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
+CVS & Co.
 ![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-GitLab-important?style=plastic&logo=microsoft%20sql%20server)
+
+Databases
+![](https://img.shields.io/badge/-Oracle-important?style=plastic&logo=oracle)
+![](https://img.shields.io/badge/-MySQL-important?style=plastic&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-important?style=plastic&logo=PostgreSQL)
+![](https://img.shields.io/badge/-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
+
+![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
+
 ![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blueviolet?style=plastic&logo=IntelliJ%20IDEA)
 
 Others daily tools
 ![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
-![](https://img.shields.io/badge/DB-Oracle-important?style=plastic&logo=oracle)
-![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/DB-PostgreSQL-important?style=plastic&logo=PostgreSQL)
-![](https://img.shields.io/badge/DB-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
 ![](https://img.shields.io/badge/-Maven-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-GitHub-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-GitLab-important?style=plastic&logo=microsoft%20sql%20server)
 
 
 
