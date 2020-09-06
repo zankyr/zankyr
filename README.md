@@ -20,34 +20,31 @@ From Milan
 
 What pays my bills: 
 ![](https://img.shields.io/badge/Code-Java-9cf?style=plastic&logo=Java&logoColor=white)
-
-
-<!-- Operating Systems -->
+![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
+![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
-![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
-![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
-
-<!-- Editors -->
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blueviolet?style=plastic&logo=IntelliJ%20IDEA)
+
+Others daily tools
 ![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
-
-<!-- Programming Languages -->
-
 ![](https://img.shields.io/badge/Code-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/Code-TypeScript-9cf?style=plastic&logo=TypeScript)
 ![](https://img.shields.io/badge/Code-Angular-9cf?style=plastic&logo=angular)
-
-<!-- Shells -->
-![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
-
-<!-- CVS -->
-![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
-
-<!-- Databases -->
 ![](https://img.shields.io/badge/DB-Oracle-important?style=plastic&logo=oracle)
 ![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/DB-PostgreSQL-important?style=plastic&logo=PostgreSQL)
 ![](https://img.shields.io/badge/DB-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-Maven-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-GitHub-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-GitLab-important?style=plastic&logo=microsoft%20sql%20server)
+
+
+
+<!-- Operating Systems -->
+
+![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
+![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
+
 
 
 <a href="https://github.com/zankyr/zankyr">
