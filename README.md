@@ -41,9 +41,12 @@ Others daily tools
 
 
 <!-- Operating Systems -->
-
 ![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
+![](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-CSS3-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-Bootstrap-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-Jenkins-important?style=plastic&logo=microsoft%20sql%20server)
 
 
 
