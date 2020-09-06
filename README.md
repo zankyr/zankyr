@@ -21,7 +21,7 @@ From Milan
 Backend world:
 ![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/-Spring-9cf?style=plastic&logo=spring&logoColor=white&color=6cb444)
-![](https://img.shields.io/badge/-Spring%20boot-9cf?style=plastic&logo=spring)
+![](https://img.shields.io/badge/-Spring%20boot-9cf?style=plastic&logo=spring&logoColor=white&color=6cb444)
 ![](https://img.shields.io/badge/-jUnit-9cf?style=plastic&logo=angular)
 ![](https://img.shields.io/badge/-Maven-important?style=plastic&logo=microsoft%20sql%20server)
 
