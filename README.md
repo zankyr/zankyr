@@ -19,7 +19,7 @@ From Milan
 ## Techs&Tools | my work build
 
 Backend world:
-![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/-Spring-9cf?style=plastic&logo=spring)
 ![](https://img.shields.io/badge/-Spring%20boot-9cf?style=plastic&logo=spring)
 ![](https://img.shields.io/badge/-jUnit-9cf?style=plastic&logo=angular)
