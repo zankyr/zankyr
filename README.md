@@ -16,13 +16,6 @@ From Milan
 <img src="https://img.shields.io/badge/-facebook-informational?style=for-thebadge&logo=facebook&logoColor=white&color=3b5998" />
 <img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
 
-[![LinkedIn][3.2]][3]
-
-[3.2]: https://docs.google.com/viewer?url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Flinkedin.svg
-
-
-[3]: https://linkedin.com
-
 ## Techs&Tools
 <!-- Operating Systems -->
 ![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
