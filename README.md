@@ -71,18 +71,17 @@ OS
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zankyr&hide=html,css&theme=synthwave" />
 </a>
 
-
-<!-- Resources -->
-<!-- Badges:  https://shields.io/ -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/ -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!-- Awesome GitHub Profile README: https://github.com/MartinHeinz-->
-<!-- Awesome GitHub Profile README: https://zzetao.github.io/awesome-github-profile/ -->
+## Resources
+ Badges:  https://shields.io/ 
+ Icons: https://simpleicons.org/ 
+ GitHub Stats: https://github.com/anuraghazra/github-readme-stats 
+ Emojis Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/ 
+ Emojis: https://emojipedia.org/emoji/ 
+ HTML Emojis: https://www.fileformat.info/index.htm 
+ Shields: https://shields.io/ 
+ Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme 
+ Awesome GitHub Profile README: https://github.com/MartinHeinz
+ Awesome GitHub Profile README: https://zzetao.github.io/awesome-github-profile/ 
 
 <!--
 **zankyr/zankyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
