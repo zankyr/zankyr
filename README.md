@@ -49,12 +49,12 @@ Databases
 
 
 Scripting
-![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
+![](https://img.shields.io/badge/-Bash-black?style=plastic&logo=gnu%20bash&logoColor=white)
 
 
 Editors
-![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blueviolet?style=plastic&logo=IntelliJ%20IDEA)
-![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
+![](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
+![](https://img.shields.io/badge/-VSCode-2c2c32?style=plastic&logo=visual%20studio%20code&logoColor=22a7f1)
 
 OS
 ![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
