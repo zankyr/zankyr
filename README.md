@@ -18,8 +18,15 @@ From Milan
 
 ## Techs&Tools
 
-What pays my bills: 
-![](https://img.shields.io/badge/Code-Java-9cf?style=plastic&logo=Java&logoColor=white)
+Programming languages&frameworks:
+![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-9cf?style=plastic&logo=TypeScript)
+![](https://img.shields.io/badge/-Angular-9cf?style=plastic&logo=angular)
+![](https://img.shields.io/badge/-Spring-9cf?style=plastic&logo=spring)
+![](https://img.shields.io/badge/-Spring%20boot-9cf?style=plastic&logo=spring)
+![](https://img.shields.io/badge/-jUnit-9cf?style=plastic&logo=angular)
+
 ![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
 ![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
@@ -27,9 +34,6 @@ What pays my bills:
 
 Others daily tools
 ![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
-![](https://img.shields.io/badge/Code-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-9cf?style=plastic&logo=TypeScript)
-![](https://img.shields.io/badge/Code-Angular-9cf?style=plastic&logo=angular)
 ![](https://img.shields.io/badge/DB-Oracle-important?style=plastic&logo=oracle)
 ![](https://img.shields.io/badge/DB-MySQL-important?style=plastic&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/DB-PostgreSQL-important?style=plastic&logo=PostgreSQL)
