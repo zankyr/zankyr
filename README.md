@@ -33,7 +33,10 @@ From Milan
 ![](https://img.shields.io/badge/Code-Angular-9cf?style=plastic&logo=angular)
 
 <!-- Shells -->
-![](https://img.shields.io/badge/Shell-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
+![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
+
+<!-- CVS -->
+![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
 
 <!-- Databases -->
 ![](https://img.shields.io/badge/DB-Oracle-important?style=plastic&logo=oracle)
