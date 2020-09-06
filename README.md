@@ -57,9 +57,9 @@ Editors
 ![](https://img.shields.io/badge/-VSCode-2c2c32?style=plastic&logo=visual%20studio%20code&logoColor=22a7f1)
 
 OS
-![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
-![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
-![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
+![](https://img.shields.io/badge/-Win10-0067b8?style=plastic&logo=microsoft)
+![](https://img.shields.io/badge/-OS%20X-131313?style=plastic&logo=Apple&logoColor=cccccc)
+![](https://img.shields.io/badge/-Debian-e6e8ed?style=plastic&logo=Debian&logoColor=ca194a)
 
 
 
