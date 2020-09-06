@@ -1,8 +1,15 @@
 # hello world 👋
 
+<h2 align="center"> $ whoami</h2>
+
 I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on LinkedIn, Facebook, Instagram, my site
 
 🌱 I’m currently learning how to customize GitHub profile
+
+
+<img src="https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin" />
+<img src="https://img.shields.io/badge/-facebook-informational?style=for-thebadge&logo=facebook&logoColor=white&color=3b5998" />
+<img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
 
 [![LinkedIn][3.2]][3]
 
