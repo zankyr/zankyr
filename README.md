@@ -23,20 +23,23 @@ Backend world:
 ![](https://img.shields.io/badge/-Spring-9cf?style=plastic&logo=spring)
 ![](https://img.shields.io/badge/-Spring%20boot-9cf?style=plastic&logo=spring)
 ![](https://img.shields.io/badge/-jUnit-9cf?style=plastic&logo=angular)
-![](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-CSS3-important?style=plastic&logo=microsoft%20sql%20server)
-![](https://img.shields.io/badge/-Bootstrap-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-Maven-important?style=plastic&logo=microsoft%20sql%20server)
+
 
 
 Frontend world:
 ![](https://img.shields.io/badge/-JavaScript-9cf?style=plastic&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-9cf?style=plastic&logo=TypeScript)
 ![](https://img.shields.io/badge/-Angular-9cf?style=plastic&logo=angular)
+![](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-CSS3-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-Bootstrap-important?style=plastic&logo=microsoft%20sql%20server)
 
 CVS & Co.
 ![](https://img.shields.io/badge/-git-success?style=plastic&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-important?style=plastic&logo=microsoft%20sql%20server)
 ![](https://img.shields.io/badge/-GitLab-important?style=plastic&logo=microsoft%20sql%20server)
+![](https://img.shields.io/badge/-Jenkins-important?style=plastic&logo=microsoft%20sql%20server)
 
 Databases
 ![](https://img.shields.io/badge/-Oracle-important?style=plastic&logo=oracle)
@@ -44,21 +47,19 @@ Databases
 ![](https://img.shields.io/badge/-PostgreSQL-important?style=plastic&logo=PostgreSQL)
 ![](https://img.shields.io/badge/-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
 
+
+Scripting
 ![](https://img.shields.io/badge/-Bash-success?style=plastic&logo=gnu%20bash&logoColor=white)
 
-![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
+
+Editors
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-blueviolet?style=plastic&logo=IntelliJ%20IDEA)
-
-Others daily tools
 ![](https://img.shields.io/badge/Editor-VSCode-blueviolet?style=plastic&logo=visual%20studio%20code)
-![](https://img.shields.io/badge/-Maven-important?style=plastic&logo=microsoft%20sql%20server)
 
-
-
-<!-- Operating Systems -->
+OS
+![](https://img.shields.io/badge/OS-Win10-informational?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/OS-10.11%20El%20Capitain-informational?style=plastic&logo=Apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Debian-informational?style=plastic&logo=Debian)
-![](https://img.shields.io/badge/-Jenkins-important?style=plastic&logo=microsoft%20sql%20server)
 
 
 
