@@ -42,9 +42,9 @@ CVS & Co.
 ![](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=jenkins)
 
 Databases
-![](https://img.shields.io/badge/-Oracle-important?style=plastic&logo=oracle)
-![](https://img.shields.io/badge/-MySQL-important?style=plastic&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-PostgreSQL-important?style=plastic&logo=PostgreSQL)
+![](https://img.shields.io/badge/-Oracle-3a3632?style=plastic&logo=oracle&logoColor=be4534)
+![](https://img.shields.io/badge/-MySQL-4479a1?style=plastic&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-important?style=plastic&logo=PostgreSQL&logoColor=346891)
 ![](https://img.shields.io/badge/-MSSQL-important?style=plastic&logo=microsoft%20sql%20server)
 
 
