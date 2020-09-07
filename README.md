@@ -87,6 +87,9 @@ OS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=utils&theme=synthwave" />
 </a>
 
+## Useful books
+
+“Great engineers know how to formulate good queries. Yet interviewers expect walking dictionaries.”
 
 ## Resources
  Badges:  https://shields.io/ 
