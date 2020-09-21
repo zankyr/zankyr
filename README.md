@@ -15,6 +15,8 @@ From Milan
 <img src="https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin" />
 <img src="https://img.shields.io/badge/-facebook-informational?style=for-thebadge&logo=facebook&logoColor=white&color=3b5998" />
 <img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
+[![zankyr's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/zankyr)
+
 
 ## Techs&Tools | my work build
 
