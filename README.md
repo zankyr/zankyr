@@ -90,20 +90,37 @@ OS
 </a>
 
 ## Useful books
+TBD
+
+## Quotes
 
 “Great engineers know how to formulate good queries. Yet interviewers expect walking dictionaries.”
 
+“The fact is, there aren't just two sides to any issue, there's almost always
+a range of responses, and "it depends" is almost always the right
+answer in any big question.” ~Linus Torvalds
+
 ## Resources
  Badges:  https://shields.io/ 
+ 
  Icons: https://simpleicons.org/ 
+ 
  GitHub: Stats: https://github.com/anuraghazra/github-readme-stats 
+ 
  Emojis: Cheatsheet: https://www.webfx.com/tools/emoji-cheat-sheet/ 
+ 
  Emojis: https://emojipedia.org/emoji/ 
+ 
  HTML Emojis: https://www.fileformat.info/index.htm 
+ 
  Shields: https://shields.io/ 
+ 
  Image color picker: https://imagecolorpicker.com/
+ 
  Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme 
+ 
  Awesome GitHub Profile README: https://github.com/MartinHeinz
+ 
  Awesome GitHub Profile README: https://zzetao.github.io/awesome-github-profile/ 
 
 <!--
