@@ -6,10 +6,7 @@ I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on L
 
 🌱 I’m currently learning how to customize GitHub profile
 
-Working @<a href="https://www.csttech.it/">CSTTech</a>
-
-
-From Milan
+From Milan.
 
 
 <img src="https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin" />
