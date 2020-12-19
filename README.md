@@ -70,8 +70,8 @@ OS
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zankyr&hide=html,css&theme=synthwave" />
 </a>
 
-<a href="https://github.com/zankyr/Gestore-Cassa-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=Gestore-Cassa-Java&theme=synthwave" />
+<a href="https://github.com/zankyr/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=dotfiles&theme=synthwave" />
 </a>
 
 <a href="https://github.com/zankyr/mondora">
