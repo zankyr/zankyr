@@ -4,7 +4,7 @@
 
 I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on LinkedIn, Facebook, Instagram, my site
 
-🌱 I’m currently learning how to customize GitHub profile
+🌱 I’m currently learning how to customize GitHub profile, Tavern
 
 From Milan.
 
@@ -12,7 +12,9 @@ From Milan.
 <img src="https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin" />
 <img src="https://img.shields.io/badge/-facebook-informational?style=for-thebadge&logo=facebook&logoColor=white&color=3b5998" />
 <img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
-[![zankyr's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/zankyr)
+<img src="https://img.shields.io/badge/-dev.to-fff?style=for-thebadge&logo=dev.to&logoColor=black" />
+<img src="https://img.shields.io/badge/-medium-fff?style=for-thebadge&logo=medium&logoColor=black" />
+
 
 
 ## Techs&Tools | my work build
