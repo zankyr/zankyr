@@ -9,9 +9,9 @@ I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
 From Milan.
 
 
-<img src="https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin" />
+[![](https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin)](https://www.linkedin.com/in/riccardo-zanchi-64523a31/)
 <img src="https://img.shields.io/badge/-facebook-informational?style=for-thebadge&logo=facebook&logoColor=white&color=3b5998" />
-<img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584" />
+<img src="https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C135è84" />è
 <img src="https://img.shields.io/badge/-dev.to-fff?style=for-thebadge&logo=dev.to&logoColor=black" />
 <img src="https://img.shields.io/badge/-medium-fff?style=for-thebadge&logo=medium&logoColor=black" />
 
