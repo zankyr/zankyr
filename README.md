@@ -2,9 +2,9 @@
 
 <h2 align="center"> $ whoami</h2>
 
-I'm Riccardo Zanchi, an Italian Software Developer from Milan. Get in touch on LinkedIn, Facebook, Instagram, my site
+I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
 
-🌱 I’m currently learning how to customize GitHub profile, Tavern
+🌱 I’m currently learning how to customize GitHub profile and [tavern](https://tavern.readthedocs.io/en/latest/index.html#)
 
 From Milan.
 
