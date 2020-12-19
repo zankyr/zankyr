@@ -6,8 +6,6 @@ I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
 
 🌱 I’m currently learning how to customize GitHub profile and [tavern](https://tavern.readthedocs.io/en/latest/index.html#)
 
-From Milan.
-
 
 [![](https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin)](https://www.linkedin.com/in/riccardo-zanchi-64523a31/)
 [![](https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/riccardozanchi/)
