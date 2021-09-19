@@ -89,26 +89,22 @@ OS
 TBD
 
 ## Quotes
-
 > “Great engineers know how to formulate good queries. Yet interviewers expect walking dictionaries.”
+> ~Anonymous (not the group)
 
+## Lines (Linus Torvalds quotes)
 > “Talk is cheap. Show me the code.” 
-> - Linus Torvalds
 
 > “Software is like sex : it's better when it's free..”
-> - Linus Torvalds
 
 > “Intelligence is the ability to avoid doing work, yet getting the work done.”
-> - Linus Torvalds
 
 > “I like offending people, because I think people who get offended should be offended.”\
-> - Linus Torvalds
-
 
 > “The fact is, there aren't just two sides to any issue, there's almost always
 > a range of responses, and "it depends" is almost always the right
 > answer in any big question.”
-> - Linus Torvalds
+
 
 ## Resources
  Badges:  https://shields.io/ 
