@@ -4,7 +4,7 @@
 
 I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
 
-🌱 I’m currently learning how to customize GitHub profile and [Amazon AWS](https://aws.amazon.com/)
+🌱 I’m currently learning Zettelkasten and [Amazon AWS](https://aws.amazon.com/)
 
 
 [![](https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin)](https://www.linkedin.com/in/riccardo-zanchi-64523a31/)
