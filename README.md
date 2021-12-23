@@ -8,7 +8,6 @@ I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
 
 
 [![](https://img.shields.io/badge/-linkedin-informational?style=for-thebadge&logo=linkedin)](https://www.linkedin.com/in/riccardo-zanchi-64523a31/)
-[![](https://img.shields.io/badge/-instagram-informational?style=for-thebadge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/riccardozanchi/)
 [![](https://img.shields.io/badge/-dev.to-fff?style=for-thebadge&logo=dev.to&logoColor=black)](https://dev.to/zankyr)
 [![](https://img.shields.io/badge/-medium-fff?style=for-thebadge&logo=medium&logoColor=black)](https://medium.com/@rkzdev)
 
@@ -45,18 +44,24 @@ Databases
 ![](https://img.shields.io/badge/-PostgreSQL-important?style=plastic&logo=PostgreSQL&logoColor=346891)
 ![](https://img.shields.io/badge/-MSSQL-?style=plastic&logo=microsoft%20sql%20server)
 
+Containers
+![](https://img.shields.io/badge/-docker-white?style=plastic&logo=Docker)
+
 
 Scripting
 ![](https://img.shields.io/badge/-Bash-black?style=plastic&logo=gnu%20bash&logoColor=white)
+![](https://img.shields.io/badge/-python-white?style=plastic&logo=Python)
 
 
 Editors
 ![](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-2c2c32?style=plastic&logo=visual%20studio%20code&logoColor=22a7f1)
+![](https://img.shields.io/badge/-pycharm-black?style=plastic&logo=PyCharm)
+
 
 OS
-![](https://img.shields.io/badge/-Win10-0067b8?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/-OS%20X-131313?style=plastic&logo=Apple&logoColor=cccccc)
+![](https://img.shields.io/badge/-Win10-0067b8?style=plastic&logo=microsoft)
 ![](https://img.shields.io/badge/-Debian-e6e8ed?style=plastic&logo=Debian&logoColor=ca194a)
 
 
