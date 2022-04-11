@@ -86,7 +86,7 @@ OS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=lm&theme=synthwave" />
 </a>
 
-<a href="https://github.com/zankyr/utils">
+<a href="https://github.com/zankyr/minimized-oraclexe-image">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=utils&theme=synthwave" />
 </a>
 
