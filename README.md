@@ -79,11 +79,11 @@ OS
 </a>
 
 <a href="https://github.com/zankyr/mondora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=mondora&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=POM-versioning&theme=synthwave" />
 </a>
 
 <a href="https://github.com/zankyr/lm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=lm&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=utils&theme=synthwave" />
 </a>
 
 <a href="https://github.com/zankyr/minimized-oraclexe-image">
