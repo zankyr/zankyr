@@ -78,11 +78,11 @@ OS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=dotfiles&theme=synthwave" />
 </a>
 
-<a href="https://github.com/zankyr/mondora">
+<a href="https://github.com/zankyr/POM-versioning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=POM-versioning&theme=synthwave" />
 </a>
 
-<a href="https://github.com/zankyr/lm">
+<a href="https://github.com/zankyr/utils">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zankyr&repo=utils&theme=synthwave" />
 </a>
 
