@@ -16,11 +16,16 @@ I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
 ## Techs&Tools | my work build
 
 Backend world:
+- Hello, Java World!
 ![](https://img.shields.io/badge/-Java-9cf?style=plastic&logo=Java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/-Spring-9cf?style=plastic&logo=spring&logoColor=white&color=6cb444)
 ![](https://img.shields.io/badge/-Spring%20boot-9cf?style=plastic&logo=spring&logoColor=white&color=6cb444)
 ![](https://img.shields.io/badge/-jUnit-9cf?style=plastic&logo=angular)
 ![](https://img.shields.io/badge/-Maven-important?style=plastic&logo=apache%20maven&color=white&logoColor=black)
+- Hello, Python World!
+![](https://img.shields.io/badge/-python-white?style=plastic&logo=Python)
+![](https://img.shields.io/badge/-poetry-white?style=plastic&logo=Poetry)
+
 
 
 
