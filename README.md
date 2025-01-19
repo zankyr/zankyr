@@ -2,7 +2,7 @@
 
 <h2 align="center"> $ whoami</h2>
 
-I'm Riccardo Zanchi, an Italian Software Developer from Lombardy.
+I'm Riccardo, an Italian Software Developer from Lombardy.
 
 🌱 I’m currently learning Zettelkasten and [Amazon AWS](https://aws.amazon.com/)
 
